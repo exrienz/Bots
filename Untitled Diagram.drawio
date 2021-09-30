@@ -1,1 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T02:11:03.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.3.8" etag="V1JdMIs9MgmzTxzsRI4J" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-30T02:55:13.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="sGn936Czbf1ttq4R-Ipb" version="15.3.8" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-0" target="EAaJ1QTHyojASpdmZ_FY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-0" value="Get Creds&lt;br&gt;(DC Admin / Root)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-3" target="EAaJ1QTHyojASpdmZ_FY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-3" value="Login To Nessus Server" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-5" target="EAaJ1QTHyojASpdmZ_FY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-5" target="EAaJ1QTHyojASpdmZ_FY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-5" value="Creds for?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-7" target="EAaJ1QTHyojASpdmZ_FY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-7" value="Windows" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="255" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-9" target="EAaJ1QTHyojASpdmZ_FY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-9" value="Nix Based" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="255" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-11" target="EAaJ1QTHyojASpdmZ_FY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-11" value="Use secretdump by Impacket to grab all username:hashes" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-13" target="EAaJ1QTHyojASpdmZ_FY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-13" value="Use custom script to get passwd and shadow file form" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-15" target="EAaJ1QTHyojASpdmZ_FY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-15" value="Credential file stored locally on Nessus Server&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-20" target="EAaJ1QTHyojASpdmZ_FY-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-20" value="Use WinSCP to transfer all the credential file from Nessus Server to local host (prefer UNIX based)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="460" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-24" target="EAaJ1QTHyojASpdmZ_FY-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-24" target="EAaJ1QTHyojASpdmZ_FY-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-24" value="Check the&lt;br&gt;creds file" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="352.5" y="570" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-26" target="EAaJ1QTHyojASpdmZ_FY-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-26" value="Windows" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="590" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-28" target="EAaJ1QTHyojASpdmZ_FY-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-28" value="Linux" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="592.5" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-36" target="EAaJ1QTHyojASpdmZ_FY-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-36" value="Use john the ripper to merge passwd and shadow file.&lt;br&gt;&lt;br&gt;Merged result will be saved as {ip}.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="640" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-38" target="EAaJ1QTHyojASpdmZ_FY-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-38" value="Use script to manually separate the file into its encryption type.&lt;br&gt;&lt;br&gt;e.g. {ip}_md5.txt, {ip}_sha512.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="760" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-40" target="EAaJ1QTHyojASpdmZ_FY-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-40" value="Combine all file based on its encryption type, for mass cracking phase.&lt;br&gt;&lt;br&gt;e.g. md5.txt, sha512.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="900" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-42" target="EAaJ1QTHyojASpdmZ_FY-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-42" value="Properly store all of&amp;nbsp; this output in a proper folder, and zip it" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-44" target="EAaJ1QTHyojASpdmZ_FY-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-44" value="Login to Bastion" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="1120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-47" target="EAaJ1QTHyojASpdmZ_FY-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-47" value="SFTP upload the file to Bastion &amp;gt; 10.226.42.28&lt;br&gt;&lt;br&gt;Extract to (vagrant/focal/wordlist/)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="335" y="1169" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-49" target="EAaJ1QTHyojASpdmZ_FY-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-49" value="Use Tmux to run the cracking process.&lt;br&gt;&lt;br&gt;First run, need to run combined encrytpion type file." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="1290" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EAaJ1QTHyojASpdmZ_FY-62" target="EAaJ1QTHyojASpdmZ_FY-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-62" value="Hashcat tips:&lt;br&gt;1. MD5: 1000&lt;br&gt;2. SHA512: 1800&lt;br&gt;3. DES: 500" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAaJ1QTHyojASpdmZ_FY-64" value="Once cracked, the cracked hashes will be updated on hashcat databases.&lt;br&gt;&lt;br&gt;Now we can individually hashcat the file e.g {ip}_sha512.txt to discover any weak creds on specific IP.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="1510" width="195" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
